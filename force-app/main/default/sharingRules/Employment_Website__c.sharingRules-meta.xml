@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SharingRules xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sharingOwnerRules>
+        <fullName>Edite_Employment</fullName>
+        <accessLevel>Edit</accessLevel>
+        <label>Edite Employment</label>
+        <sharedTo>
+            <group>Reviewer</group>
+        </sharedTo>
+        <sharedFrom>
+            <group>Recruitment_Manager</group>
+        </sharedFrom>
+    </sharingOwnerRules>
+</SharingRules>
